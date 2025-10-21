@@ -26,5 +26,3 @@ Making technology **simple**, **beautiful**, and **impactful** through projects 
 | **Deployment** | Netlify • Vercel |
 
 
-
-## 📁 Project Structure  
